@@ -8,11 +8,10 @@ description: "Rui Sousa's office address at Northwestern University."
 
 #### Office address
 
-Rui Sousa
-Office 3436,
-Kellogg Global Hub,
-2211 N Campus Dr, 
-Evanston, IL 60208
+Office 3436, \
+Kellogg Global Hub, \
+2211 N Campus Dr,  \
+Evanston, IL 60208 \
 United States
 
 ---
