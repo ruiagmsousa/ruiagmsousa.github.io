@@ -1,0 +1,92 @@
+baseURL: "https://ruisousa.github.io" 
+title: Rui Sousa
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+
+taxonomies:
+    tag: tags
+
+menu:
+    main:
+        - name: Papers
+          url: papers/
+          weight: 2
+        - name: Courses
+          url: courses/
+          weight: 3
+        - name: Data
+          url: data/
+          weight: 4 
+        
+params:
+    description: "I am a $4^{th}$ year economics PhD student at Northwestern University."
+    author: Rui Sousa
+    # googleAnalyticsID: "G-XXXXX"
+    DateFormat: "January 2006"
+    defaultTheme: light
+    hideFooter: false
+    disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    disableAnchoredHeadings: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowAllPagesInArchive: false
+    MainSections: ["books","courses","papers","data"]
+    ShowToc: false
+    disableScrollToTop: true
+    TocOpen: true
+    ShowWordCount: false
+    UseHugoToc: true
+    comments: false
+    math: true
+    profileMode:
+          enabled: true
+          title: Rui Sousa
+          subtitle: "Hi there! I am a $4^{th}$ year PhD student at the economics department of Northwestern University. I am a macroeconomist interested in the energy transition, shock propagation and financial frictions. \n Previously, I have worked as a Research Assistant at the Centre for Macroeconomics at the LSE under professors Benjamin Moll and Ricardo Reis. Before that I worked as a trainee and analyst at the European Central Bank. I obtained my BSc from the University of Porto and MSc from Nova School of Business and Economics in Portugal."  
+          imageUrl: "picture.jpeg"
+          imageWidth: 160
+          imageHeight: 160
+          buttons:
+            - name: Papers
+              url: papers/
+            - name: Curriculum
+              url: curriculum/
+            - name: Data
+              url: data/
+            
+    socialIcons:
+        - name: CV
+          url: cv.pdf
+        - name: Email
+          url: mailto:rui.agm.sousa@u.northwestern.edu
+        - name: Location
+          url: location/
+        - name: GitHub
+          url: https://github.com/sousaru
+        
+    assets:
+        disableScrollBarStyle: true
+    cover:
+        hiddenInList: false
+        hiddenInSingle: true
+    label:
+      text: "Rui Sousa"
+      icon: favicon.ico
+      iconHeight: 18
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        guessSyntax: true
+        style: autumn 
+    tableOfContents:
+        endLevel: 2
+        ordered: false
+        startLevel: 2
