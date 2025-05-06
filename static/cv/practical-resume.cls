@@ -94,14 +94,14 @@
 	\raggedright\hrulefill\par
 	\vspace{-0.25em}
 	\headingfont{\textbf{\MakeUppercase{#1}}}
-	\vspace{0.25em}
+	\vspace{0em}
 	\newline\par
 }
 
 % Company Name, Location, Dates
 \makeatletter
 	\newenvironment*{organization}[3]{
-		\vspace*{-0.25em}
+		\vspace*{0em}
 		\raggedright
 		{\Large #1{\@ifmtarg{#2}{}{,}}} 
 		#2
@@ -128,7 +128,7 @@
     \ifthenelse{\equal{\@position@uselisting}{noitemize}}{}{%
         \end{itemize}%
     }%
-    \vspace*{.5em}%
+    \vspace*{0em}%
 }
 \makeatother
 

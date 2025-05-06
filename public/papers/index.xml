@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/papers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Aggregate Green Elasticity of Substitution</title>
-      <link>http://localhost:1313/papers/paper1/</link>
+      <link>http://localhost:1313/papers/agg-green-elasticity/</link>
       <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/papers/paper1/</guid>
+      <guid>http://localhost:1313/papers/agg-green-elasticity/</guid>
       <description>Working Paper</description>
     </item>
   </channel>

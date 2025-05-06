@@ -7,8 +7,8 @@ author: ["Rui Sousa"]
 description: "Working Paper" 
 summary: "This paper proposes a new metholody to estimate the elasticity of substitution between pollutant and non-pollutant energy for the US. With a point estimate of 0.6, much closer to 1 than previously thought, the energy transition will be slower and more painful. Subsidies are not a sufficient policy tool when used alone." 
 cover:
-    image: "paper1.png"
-    alt: "  The A"
+    image: "us_y_ts_energy_use_vs_price.png"
+    alt: "Prices and Quantities"
     relative: false
 editPost:
     URL: ""
@@ -20,9 +20,7 @@ editPost:
 
 ##### Download
 
-+ [Paper](paper1.pdf)
-+ [Online appendix](appendix1.pdf)
-+ [Code and data](https://github.com/pmichaillat/feru)
++ DRAFT COMING SOON
 
 ---
 
@@ -36,31 +34,14 @@ to be 0.72. We also conclude that aggregate elasticities do not necessarily rise
 transportation and electricity generation are the main drags on the aggregate elasticity.
 ---
 
-##### Figure 6: Some Uses For Olive Oil
+##### Figure 4: Energy Consumption and Relative Prices.
 
-![](paper1.png)
+![](us_y_ts_energy_use_vs_price.png)
 
----
-
-##### Citation
-
-Sousa, Rui 2025. "The Aggregate Green Elasticity of Substitution." http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil.
-
-```BibTeX
-@article{UI13,
-author = {Detlev A. Unterholzer and Moritz-Maria von Igelfeld},
-year = {2013},
-title ={Unusual Uses For Olive Oil},
-journal = {Journal of Oleic Science},
-volume = {34},
-number = {1},
-pages = {449--489},
-url = {http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil}}
-```
+Notes: Plot of pollutant and non-pollutant energy consumption vs energy prices. Values normalized to 100
+in 2010. LCOE estimates are from International Renewable Energy Agency (2024). All prices account for
+inflation.
 
 ---
 
-##### Related material
-
-+ [Presentation slides](presentation1.pdf)
-+ [Summary of the paper](https://www.penguinrandomhouse.com/books/110403/unusual-uses-for-olive-oil-by-alexander-mccall-smith/)
+## [Citation](citation)
