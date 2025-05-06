@@ -44,8 +44,8 @@ params:
     profileMode:
           enabled: true
           title: Rui Sousa
-          subtitle: "Hi there! I am a 4th-year PhD student in the Department of Economics at Northwestern University. My research focuses on macroeconomics, with particular interests in the energy transition, shock propagation, and financial frictions. 
-                     Previously, I worked as a research assistant at the Centre for Macroeconomics at the London School of Economics under Professors Benjamin Moll and Ricardo Reis. Before entering academia, I worked as an analyst and trainee at the European Central Bank.
+          subtitle: "Hi there! I am a 4th-year PhD student in the Department of Economics at Northwestern University. My research focuses on macroeconomics, with particular interests in the energy transition, shock propagation, and financial frictions. \n\n
+                     Previously, I worked as a research assistant at the Centre for Macroeconomics at the London School of Economics under Professors Benjamin Moll and Ricardo Reis. Before entering academia, I worked as an analyst and trainee at the European Central Bank. \n\n
                      I hold a BSc from the University of Porto and an MSc from Nova School of Business and Economics in Portugal."  
           imageUrl: "profile_photo.jpg"
           imageWidth: 160
