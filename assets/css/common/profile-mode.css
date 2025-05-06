@@ -1,7 +1,7 @@
 .buttons,
 .main .profile {
     display: flex;
-    justify-content: left;
+    justify-content: space-between;
 }
 .main .profile {
     align-items: center;
@@ -9,6 +9,11 @@
     font-size: var(--homesize);
     line-height: var(--lineheight);
 }
+
+/*Indent paragrapsh*/
+.main .profile p + p {
+    text-indent: 2em;
+  }
 
 .profile .profile_inner {
     display: flex;
