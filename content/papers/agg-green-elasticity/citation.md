@@ -1,3 +1,8 @@
+---
+title: "Citation - Aggregate Green Elasticity"
+description: '"Citation for Aggregate Green Elasticity", Sousa (2025)'
+---
+
 ## Citation
 
 ```BibTeX
