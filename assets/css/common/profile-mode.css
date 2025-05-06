@@ -11,7 +11,7 @@
 }
 
 /*Indent paragrapsh*/
-.main .profile p + p {
+.main .profile_inner p + p {
     text-indent: 2em;
   }
 
