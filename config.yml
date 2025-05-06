@@ -62,7 +62,7 @@ params:
         - name: Location
           url: location/
         - name: GitHub
-          url: https://github.com/sousaru
+          url: https://github.com/ruiagmsousa
         
     assets:
         disableScrollBarStyle: true
@@ -71,7 +71,7 @@ params:
         hiddenInSingle: true
     label:
       text: "Rui Sousa"
-      icon: favicon.ico
+      icon: favicon/favicon.ico
       iconHeight: 18
 
 markup:

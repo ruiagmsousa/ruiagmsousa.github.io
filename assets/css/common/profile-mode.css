@@ -18,7 +18,9 @@
 }
 
 .profile .profile_inner h1 {
-    font-size: 40px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+    font-size: 50px;
 }
 
 .profile img {
@@ -30,7 +32,7 @@
 }
 
 .button {
-    background: var(--tertiary);
+    background: var(--quaternary);
     border-radius: var(--radius);
     margin: 8px 16px 8px 0px;
     padding: 6px;
