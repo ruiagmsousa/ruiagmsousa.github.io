@@ -5,7 +5,7 @@ lastmod: 2025-05-05
 tags: ["Energy","Macroeconomics","Elasticity of Substitution Estimation"]
 author: ["Rui Sousa"]
 description: "Working Paper" 
-summary: "This paper proposes a new metholody to estimate the elasticity of substitution between pollutant and non-pollutant energy for the US. With a point estimate of 0.6, much closer to 1 than previously thought, the energy transition will be slower and more painful. Subsidies are not a sufficient policy tool when used alone." 
+summary: "This paper proposes a new metholody to estimate the elasticity of substitution between pollutant and non-pollutant energy for the US. With a point estimate of 0.6, much closer to unity than previously thought, the energy transition will be slower and more painful. This suggests that subsidies are not a sufficient policy tool when used alone." 
 cover:
     image: "us_y_ts_energy_use_vs_price.png"
     alt: "Prices and Quantities"
@@ -26,12 +26,8 @@ editPost:
 
 ##### Abstract
 
-We propose a new methodology to estimate the aggregate elasticity of substitution between pollutant and
-non-pollutant energy. Exploiting the variation in US states’ energy mixes, we find that the elasticity is closer to 1 than
-previously thought. Our estimates preclude subsidies as the sole policy tool to enact the long-run energy transition. We
-also propose a model that connects aggregate and sectoral elasticities, and find the average energy end-user elasticity
-to be 0.72. We also conclude that aggregate elasticities do not necessarily rise with the clean energy share. Ultimately,
-transportation and electricity generation are the main drags on the aggregate elasticity.
+We develop a methodology to estimate the aggregate elasticity of substitution between pollutant and non-pollutant energy. Leveraging variation in US states' energy mixes, we estimate an elasticity of 0.6 - statistically much closer to unity than prior studies - implying subsidies alone are insufficient for a long-run energy transition. A model linking aggregate and sectoral elasticities yields an average end-user elasticity of 0.72. We show that increasing the clean energy share without raising micro-elasticities reduces aggregate elasticity. Finally, the transportation sector significantly constrains overall substitutability.
+
 ---
 
 ##### Figure 4: Energy Consumption and Relative Prices.
@@ -44,4 +40,7 @@ inflation.
 
 ---
 
+<!---
 ## [Citation](citation)
+-->
+
