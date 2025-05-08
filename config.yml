@@ -51,8 +51,8 @@ params:
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Papers
-              url: papers/
+            - name: Research
+              url: research/
             - name: Curriculum
               url: curriculum/
             
