@@ -10,8 +10,8 @@ taxonomies:
 
 menu:
     main:
-        - name: Papers
-          url: papers/
+        - name: Research
+          url: research/
           weight: 2
         - name: Curriculum
           url: curriculum/
