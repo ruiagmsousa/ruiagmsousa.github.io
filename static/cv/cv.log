@@ -1,11 +1,11 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.3) (preloaded format=xelatex 2025.4.23)  8 MAY 2025 18:56
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.5.20)  20 MAY 2025 17:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **./cv.tex
 (cv.tex
 LaTeX2e <2024-11-01> patch level 2
-L3 programming layer <2025-03-26>
+L3 programming layer <2025-04-14>
 (practical-resume.cls
 Document Class: practical-resume 2020/07/01 Practical Résumé Class
 (C:\Users\ruiag\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -13,14 +13,14 @@ Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
 (C:\Users\ruiag\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
 File: size10.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count193
-\c@section=\count194
-\c@subsection=\count195
-\c@subsubsection=\count196
-\c@paragraph=\count197
-\c@subparagraph=\count198
-\c@figure=\count199
-\c@table=\count266
+\c@part=\count268
+\c@section=\count269
+\c@subsection=\count270
+\c@subsubsection=\count271
+\c@paragraph=\count272
+\c@subparagraph=\count273
+\c@figure=\count274
+\c@table=\count275
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
 \bibindent=\dimen146
@@ -31,7 +31,7 @@ other characters in Unicode lower plane
 (C:\Users\ruiag\AppData\Local\Programs\MiKTeX\tex/latex/tipa\t3enc.def
 File: t3enc.def 2001/12/31 T3 encoding
 )
-\tipaTiiicode=\count267
+\tipaTiiicode=\count276
 \tipasavetokens=\toks17
 \tipachecktokens=\toks18
 
@@ -69,9 +69,9 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 (C:\Users\ruiag\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2024/12/12 v1.0g TeX engine tests
 ))
-\Gm@cnth=\count268
-\Gm@cntv=\count269
-\c@Gm@tempcnt=\count270
+\Gm@cnth=\count277
+\Gm@cntv=\count278
+\c@Gm@tempcnt=\count279
 \Gm@bindingoffset=\dimen149
 \Gm@wd@mp=\dimen150
 \Gm@odd@mp=\dimen151
@@ -96,14 +96,14 @@ Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
 (C:\Users\ruiag\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
 e.sty
 (C:\Users\ruiag\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
-Package: expl3 2025-03-26 L3 programming layer (loader) 
+Package: expl3 2025-04-14 L3 programming layer (loader) 
 
 (C:\Users\ruiag\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-xet
 ex.def
-File: l3backend-xetex.def 2025-03-14 L3 backend support: XeTeX
-\g__graphics_track_int=\count271
-\g__pdfannot_backend_int=\count272
-\g__pdfannot_backend_link_int=\count273
+File: l3backend-xetex.def 2025-04-14 L3 backend support: XeTeX
+\g__graphics_track_int=\count280
+\g__pdfannot_backend_int=\count281
+\g__pdfannot_backend_link_int=\count282
 ))
 Package: xparse 2024-08-16 L3 Experimental document command parser
 )
@@ -113,17 +113,17 @@ Package: fontspec 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
 .sty
 Package: fontspec-xetex 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTe
 X
-\l__fontspec_script_int=\count274
-\l__fontspec_language_int=\count275
-\l__fontspec_strnum_int=\count276
-\l__fontspec_tmp_int=\count277
-\l__fontspec_tmpa_int=\count278
-\l__fontspec_tmpb_int=\count279
-\l__fontspec_tmpc_int=\count280
-\l__fontspec_em_int=\count281
-\l__fontspec_emdef_int=\count282
-\l__fontspec_strong_int=\count283
-\l__fontspec_strongdef_int=\count284
+\l__fontspec_script_int=\count283
+\l__fontspec_language_int=\count284
+\l__fontspec_strnum_int=\count285
+\l__fontspec_tmp_int=\count286
+\l__fontspec_tmpa_int=\count287
+\l__fontspec_tmpb_int=\count288
+\l__fontspec_tmpc_int=\count289
+\l__fontspec_em_int=\count290
+\l__fontspec_emdef_int=\count291
+\l__fontspec_strong_int=\count292
+\l__fontspec_strongdef_int=\count293
 \l__fontspec_tmpa_dim=\dimen157
 \l__fontspec_tmpb_dim=\dimen158
 \l__fontspec_tmpc_dim=\dimen159
@@ -158,14 +158,14 @@ Package: csquotes 2024-04-04 v5.2o context-sensitive quotations (JAW)
 
 (C:\Users\ruiag\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count285
+\etb@tempcnta=\count294
 )
-\csq@reset=\count286
-\csq@gtype=\count287
-\csq@glevel=\count288
-\csq@qlevel=\count289
-\csq@maxlvl=\count290
-\csq@tshold=\count291
+\csq@reset=\count295
+\csq@gtype=\count296
+\csq@glevel=\count297
+\csq@qlevel=\count298
+\csq@maxlvl=\count299
+\csq@tshold=\count300
 \csq@ltx@everypar=\toks23
 
 (C:\Users\ruiag\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.def
@@ -178,17 +178,17 @@ Package csquotes Info: ... configuration file loaded successfully.
 File: csquotes.cfg 
 )) (C:\Users\ruiag\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.st
 y
-\lst@mode=\count292
+\lst@mode=\count301
 \lst@gtempboxa=\box57
 \lst@token=\toks24
-\lst@length=\count293
+\lst@length=\count302
 \lst@currlwidth=\dimen161
-\lst@column=\count294
-\lst@pos=\count295
+\lst@column=\count303
+\lst@pos=\count304
 \lst@lostspace=\dimen162
 \lst@width=\dimen163
-\lst@newlines=\count296
-\lst@lineno=\count297
+\lst@newlines=\count305
+\lst@lineno=\count306
 \lst@maxwidth=\dimen164
 
 (C:\Users\ruiag\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstpatch.sty
@@ -196,8 +196,8 @@ File: lstpatch.sty 2024/09/23 1.10c (Carsten Heinz)
 )
 (C:\Users\ruiag\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
 File: lstmisc.sty 2024/09/23 1.10c (Carsten Heinz)
-\c@lstnumber=\count298
-\lst@skipnumbers=\count299
+\c@lstnumber=\count307
+\lst@skipnumbers=\count308
 \lst@framebox=\box58
 )
 (C:\Users\ruiag\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
@@ -210,19 +210,19 @@ Package: enumitem 2025/02/06 v3.11 Customized lists
 \enit@outerparindent=\dimen165
 \enit@toks=\toks25
 \enit@inbox=\box59
-\enit@count@id=\count300
-\enitdp@description=\count301
+\enit@count@id=\count309
+\enitdp@description=\count310
 )
 (C:\Users\ruiag\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
 Package: multicol 2024/09/14 v1.9i multicolumn formatting (FMi)
-\c@tracingmulticols=\count302
+\c@tracingmulticols=\count311
 \mult@box=\box60
 \multicol@leftmargin=\dimen166
-\c@unbalance=\count303
-\c@collectmore=\count304
-\doublecol@number=\count305
-\multicoltolerance=\count306
-\multicolpretolerance=\count307
+\c@unbalance=\count312
+\c@collectmore=\count313
+\doublecol@number=\count314
+\multicoltolerance=\count315
+\multicolpretolerance=\count316
 \full@width=\dimen167
 \page@free=\dimen168
 \premulticols=\dimen169
@@ -273,15 +273,15 @@ Package: multicol 2024/09/14 v1.9i multicolumn formatting (FMi)
 \@tempa=\box101
 \@tempa=\box102
 \@tempa=\box103
-\c@minrows=\count308
-\c@columnbadness=\count309
-\c@finalcolumnbadness=\count310
+\c@minrows=\count317
+\c@columnbadness=\count318
+\c@finalcolumnbadness=\count319
 \last@try=\dimen172
 \multicolovershoot=\dimen173
 \multicolundershoot=\dimen174
 \mult@nat@firstbox=\box104
 \colbreak@box=\box105
-\mc@col@check@num=\count311
+\mc@col@check@num=\count320
 )
 (C:\Users\ruiag\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
 Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
@@ -351,7 +351,7 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 (C:\Users\ruiag\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
-\c@section@level=\count312
+\c@section@level=\count321
 )
 (C:\Users\ruiag\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.s
 ty
@@ -359,14 +359,14 @@ Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 )
 \@linkdim=\dimen175
-\Hy@linkcounter=\count313
-\Hy@pagecounter=\count314
+\Hy@linkcounter=\count322
+\Hy@pagecounter=\count323
  (C:\Users\ruiag\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2024-11-05 v7.01l Hyperref: PDFDocEncoding definition (HO)
 ) (C:\Users\ruiag\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count315
+\Hy@SavedSpaceFactor=\count324
  (C:\Users\ruiag\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2024-11-05 v7.01l Hyperref: PDF Unicode definition (HO)
 
@@ -386,7 +386,7 @@ Package hyperref Info: Plain pages OFF on input line 4172.
 Package hyperref Info: Backreferencing OFF on input line 4177.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4424.
-\c@Hy@tempcnt=\count316
+\c@Hy@tempcnt=\count325
  (C:\Users\ruiag\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
@@ -401,7 +401,7 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count317
+\Fld@menulength=\count326
 \Field@Width=\dimen177
 \Fld@charsize=\dimen178
 Package hyperref Info: Hyper figures OFF on input line 6042.
@@ -416,18 +416,18 @@ Package hyperref Info: PDF/A mode OFF on input line 6072.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count318
-\c@Item=\count319
-\c@Hfootnote=\count320
+\Hy@abspage=\count327
+\c@Item=\count328
+\c@Hfootnote=\count329
 )
 Package hyperref Info: Driver (autodetected): hxetex.
 (C:\Users\ruiag\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hxetex.def
 File: hxetex.def 2024-11-05 v7.01l Hyperref driver for XeTeX
 \pdfm@box=\box106
-\c@Hy@AnnotLevel=\count321
-\HyField@AnnotCount=\count322
-\Fld@listcount=\count323
-\c@bookmark@seq@number=\count324
+\c@Hy@AnnotLevel=\count330
+\HyField@AnnotCount=\count331
+\Fld@listcount=\count332
+\c@bookmark@seq@number=\count333
 
 (C:\Users\ruiag\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
 echeck.sty
@@ -508,15 +508,15 @@ Package pageslts Info: Option fnsymbolmult enabled (maybe by default):
 (pageslts)             If you do not want this, call pageslts with option
 (pageslts)             fnsymbolmult=false.
 
-\c@CurrentPage=\count325
-\c@pagesLTS.pagenr=\count326
-\c@pagesLTS.current.local.0=\count327
-\c@pagesLTS.pnc.0=\count328
-\c@pagesLTS.tmpcounter=\count329
+\c@CurrentPage=\count334
+\c@pagesLTS.pagenr=\count335
+\c@pagesLTS.current.local.0=\count336
+\c@pagesLTS.pnc.0=\count337
+\c@pagesLTS.tmpcounter=\count338
 )
-\c@pagesLTS.pnc.arabic=\count330
-\c@pagesLTS.double.arabic=\count331
-\c@pagesLTS.current.local.arabic=\count332
+\c@pagesLTS.pnc.arabic=\count339
+\c@pagesLTS.double.arabic=\count340
+\c@pagesLTS.current.local.arabic=\count341
  (C:\Users\ruiag\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
 Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
 )
@@ -605,6 +605,7 @@ ext;"
 (fontspec)             Heros/BI/OT:script=latn;language=dflt;+smcp;mapping=tex-
 text;"
 
+Package hyperref Info: Option `colorlinks' set `true' on input line 24.
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... none found.
 
@@ -612,37 +613,37 @@ LaTeX Warning: Unused global option(s):
     [9pt].
 
 (cv.aux
-\c@pagesLTS.arabic.1.local.cnt=\count333
+\c@pagesLTS.arabic.1.local.cnt=\count342
 )
 \openout1 = `cv.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 14.
-LaTeX Font Info:    Trying to load font information for T3+cmr on input line 14
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 26.
+LaTeX Font Info:    Trying to load font information for T3+cmr on input line 26
 .
  (C:\Users\ruiag\AppData\Local\Programs\MiKTeX\tex/latex/tipa\t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
@@ -684,68 +685,68 @@ Package fontspec Info:
 
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 14.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 14.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 14.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 14.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 14.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 14.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 14.
-LaTeX Font Info:    Redeclaring math accent \check on input line 14.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 14.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 14.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 14.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 14.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 14.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 14.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 14.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 14.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 14.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 14.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 14.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 14.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 14.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 14.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 14.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 14.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 14.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 26.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 26.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 26.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 26.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 26.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 26.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 26.
+LaTeX Font Info:    Redeclaring math accent \check on input line 26.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 26.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 26.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 26.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 26.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 26.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 26.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 26.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 26.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 26.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 26.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 26.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 26.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 26.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 26.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 26.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 26.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 26.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 14.
+(Font)              `operators' in the math version `normal' on input line 26.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/TeXGyreTermes(0)/m/n on input line 1
-4.
+(Font)                  OT1/cmr/m/n --> TU/TeXGyreTermes(0)/m/n on input line 2
+6.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 14.
+(Font)              `operators' in the math version `bold' on input line 26.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> TU/TeXGyreTermes(0)/m/n on input line 
-14.
+26.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  TU/TeXGyreTermes(0)/m/n --> TU/TeXGyreTermes(0)/m/n on 
-input line 14.
+input line 26.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> TU/TeXGyreTermes(0)/m/it on input line
- 14.
+ 26.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/cmr/bx/n --> TU/TeXGyreTermes(0)/b/n on input line 
-14.
+26.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/TeXGyreHeros(0)/m/n on input line 1
-4.
+(Font)                  OT1/cmss/m/n --> TU/TeXGyreHeros(0)/m/n on input line 2
+6.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 14.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 26.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  TU/TeXGyreTermes(0)/m/n --> TU/TeXGyreTermes(0)/b/n on 
-input line 14.
+input line 26.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> TU/TeXGyreTermes(0)/b/it on input lin
-e 14.
+e 26.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  OT1/cmss/bx/n --> TU/TeXGyreHeros(0)/b/n on input line 
-14.
+26.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 14.
-\c@lstlisting=\count334
-Package hyperref Info: Link coloring ON on input line 14.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 26.
+\c@lstlisting=\count343
+Package hyperref Info: Link coloring ON on input line 26.
 (cv.out) (cv.out)
 \@outlinefile=\write3
 \openout3 = `cv.out'.
@@ -788,7 +789,7 @@ ping=tex-text;"
 cp;mapping=tex-text;"
 
 
-Overfull \hbox (16.98582pt too wide) in paragraph at lines 31--31
+Overfull \hbox (16.98582pt too wide) in paragraph at lines 43--43
 \TU/TeXGyreHeros(1)/b/n/10 Email: [][]\TU/TeXGyreHeros(1)/m/n/10 rui.agm.sousa@
 u.northwestern.edu[][] 
  []
@@ -830,9 +831,9 @@ ing=tex-text;"
 p;mapping=tex-text;"
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 37.
+(Font)              <5> on input line 49.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 78.
+(Font)              <7> on input line 90.
 
 
 
@@ -878,12 +879,12 @@ cp;mapping=tex-text;"
 
 [2]
 Package pageslts Info: enddocument/afterlastpage (AED): pageslts setting LastPa
-ge on input line 123.
-\c@pagesLTS.arabic.1.local.count=\count335
+ge on input line 135.
+\c@pagesLTS.arabic.1.local.count=\count344
 Package pageslts Info: enddocument/afterlastpage (AED): pageslts setting VeryLa
-stPage on input line 123.
+stPage on input line 135.
 Package pageslts Info: enddocument/afterlastpage (AED): pageslts setting LastPa
-ges on input line 123.
+ges on input line 135.
 
 
 Package pageslts Info: Total number of pages is even.
@@ -891,18 +892,18 @@ Package pageslts Info: Total number of pages is even.
 (cv.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
-L3 programming layer <2025-03-26>
+L3 programming layer <2025-04-14>
  ***********
 Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 19167 strings out of 405074
- 351141 string characters out of 5499961
- 811391 words of memory out of 5000000
- 45580 multiletter control sequences out of 15000+600000
- 627521 words of font info for 83 fonts, out of 8000000 for 9000
+ 19171 strings out of 405057
+ 351028 string characters out of 5499578
+ 812585 words of memory out of 5000000
+ 45602 multiletter control sequences out of 15000+600000
+ 627513 words of font info for 82 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 103i,11n,112p,656b,722s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 103i,11n,112p,722b,722s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on cv.pdf (2 pages).
