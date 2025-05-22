@@ -1,11 +1,11 @@
 ---
 title: "The Aggregate Green Elasticity of Substitution" 
-date: 2025-05-05
-lastmod: 2025-05-05
-tags: ["Energy","Macroeconomics","Elasticity of Substitution Estimation"]
+date: 2025-05-25
+lastmod: 2025-05-25
+tags: ["Energy Transition","Elasticity of Substitution Estimation","Dirty Energy Substitutability"]
 author: ["Rui Sousa"]
 description: "Work In Progress" 
-summary: "This paper proposes a new methodology to estimate the elasticity of substitution between pollutaing and non-polluting energy for the US. With a point estimate of 0.59, much closer to unity than previously thought, the energy transition will be more painful and uneven. It further suggests that subsidies are not a sufficient policy tool when used alone." 
+summary: "This paper proposes a new methodology to estimate the elasticity of substitution between polluting and non-polluting energy for the US. With a point estimate of 0.59, much closer to unity than previously thought, the energy transition will be more painful and uneven. It further suggests that subsidies are not a sufficient policy tool when used alone." 
 cover:
     image: "us_y_ts_relative_energy_use_vs_price_wind.png"
     alt: "Relative Dirty Energy Prices and Clean Energy Consumption"
@@ -23,7 +23,7 @@ editPost:
 [Current Version](draft.pdf)
 
 <!---
-[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5262600)
+[SSRN](https://ssrn.com/abstract=5265415)
 -->
 
 ---
@@ -45,8 +45,8 @@ Notes: The figure plots two series for the US: the log-difference in average ene
 
 ### Citation
 
-Sousa, Rui, The Aggregate Green Elasticity of Substitution (May 20, 2025). Available at SSRN: https://ssrn.com/abstract=5262600
-
+ Sousa, Rui, The Aggregate Green Elasticity of Substitution (May 22, 2025). Available at SSRN: https://ssrn.com/abstract=5265415 
+ 
 ##### Bibtex:
 ```BibTeX
 @misc{sousa_green_2025,
@@ -55,14 +55,14 @@ Sousa, Rui, The Aggregate Green Elasticity of Substitution (May 20, 2025). Avail
   year         = {2025},
   month        = {May},
   note         = {SSRN Working Paper},
-  url          = {https://ssrn.com/abstract=5262600}
+  url          = {https://ssrn.com/abstract=5265415}
 }
 
 ```
 ---
 -->
 
-###### Disclaimer
+##### Disclaimer
 
-This project was supported by a PhD Scholarship from Fundação para a Ciência e a Tecnologia for the year 2024-2025
+###### This project benefited from a PhD Scholarship from Fundação para a Ciência e a Tecnologia.
 
