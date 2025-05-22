@@ -1,7 +1,7 @@
 ---
 title: "The Aggregate Green Elasticity of Substitution" 
-date: 2025-05-25
-lastmod: 2025-05-25
+date: 2025-05-22
+lastmod: 2025-05-22
 tags: ["Energy Transition","Elasticity of Substitution Estimation","Dirty Energy Substitutability"]
 author: ["Rui Sousa"]
 description: "Work In Progress" 
