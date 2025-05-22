@@ -40,6 +40,7 @@ We develop a methodology to estimate the aggregate elasticity of substitution be
 
 Notes: The figure plots two series for the US: the log-difference in average energy prices between pollutant and non-pollutant sources, and the log-difference in energy consumption between clean and dirty energy. Both series are normalized to 100 in 2010 prior to the log transformation. As a proxy for clean energy prices, we use onshore wind LCOE estimates from International Renewable Energy Agency (2024); analogous results using photovoltaic estimates are shown in figure 13. All prices are adjusted for inflation.
 
+<!--
 ---
 
 ### Citation
@@ -58,8 +59,8 @@ Sousa, Rui, The Aggregate Green Elasticity of Substitution (May 20, 2025). Avail
 }
 
 ```
-
 ---
+-->
 
 ###### Disclaimer
 
