@@ -22,7 +22,9 @@ editPost:
 
 [Current Version](draft.pdf)
 
+<!---
 [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5262600)
+-->
 
 ---
 
