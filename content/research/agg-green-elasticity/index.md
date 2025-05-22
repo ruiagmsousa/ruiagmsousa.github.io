@@ -18,7 +18,7 @@ editPost:
 
 ---
 
-### MANUSCRIPT
+### MANUSCRIPT 
 
 [Current Version](draft.pdf)
 
@@ -40,7 +40,26 @@ Notes: The figure plots two series for the US: the log-difference in average ene
 
 ---
 
-<!---
-## [Citation](citation)
--->
+### Citation
+
+Sousa, Rui, The Aggregate Green Elasticity of Substitution (May 20, 2025). Available at SSRN: https://ssrn.com/abstract=5262600
+
+##### Bibtex:
+```BibTeX
+@misc{sousa_green_2025,
+  author       = {Sousa, Rui},
+  title        = {The Aggregate Green Elasticity of Substitution},
+  year         = {2025},
+  month        = {May},
+  note         = {SSRN Working Paper},
+  url          = {https://ssrn.com/abstract=5262600}
+}
+
+```
+
+---
+
+###### Disclaimer
+
+This project was supported by a PhD Scholarship from Fundação para a Ciência e a Tecnologia for the year 2024-2025
 
