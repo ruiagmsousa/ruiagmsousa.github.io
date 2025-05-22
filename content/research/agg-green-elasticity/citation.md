@@ -5,10 +5,17 @@ description: '"Citation for Aggregate Green Elasticity", Sousa (2025)'
 
 ## Citation
 
+Sousa, Rui, The Aggregate Green Elasticity of Substitution (May 20, 2025). Available at SSRN: https://ssrn.com/abstract=5262600
+
+
 ```BibTeX
-@article{UI13,
-author = {Sousa, Rui},
-year = {2025},
-title ={Unusual Uses For Olive Oil},
-url = {http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil}}
+@misc{sousa_green_2025,
+  author       = {Sousa, Rui},
+  title        = {The Aggregate Green Elasticity of Substitution},
+  year         = {2025},
+  month        = {May},
+  note         = {SSRN Working Paper},
+  url          = {https://ssrn.com/abstract=5262600}
+}
+
 ```
