@@ -1,13 +1,13 @@
 ---
 title: "The Aggregate Green Elasticity of Substitution" 
 date: 2025-05-22
-lastmod: 2025-05-22
-tags: ["Energy Transition","Elasticity of Substitution Estimation","Dirty Energy Substitutability"]
+lastmod: 2025-08-06
+tags: ["Energy Transition","Elasticity of Substitution Estimation","Energy And Economic Growth"]
 author: ["Rui Sousa"]
-description: "Work In Progress" 
-summary: "This paper proposes a new methodology to estimate the elasticity of substitution between polluting and non-polluting energy for the US. With a point estimate of 0.59, much closer to unity than previously thought, the energy transition will be more painful and uneven. It further suggests that subsidies are not a sufficient policy tool when used alone." 
+description: "Working Paper" 
+summary: "I introduce a new empirical strategy to provide the first estimate of the aggregate elasticity of substitution between polluting and non-polluting energy. Exploiting variation in US states’ energy mixes, I estimate an elasticity of 0.50 — much lower than most calibrations assume. Gross complementarity between energy sources complicates the green transition and significantly raises the economic costs of climate change." 
 cover:
-    image: "us_y_ts_relative_energy_use_vs_price_wind.png"
+    image: "us_y_ts_ma_relative_energy_use_vs_price_wind.png"
     alt: "Relative Dirty Energy Prices and Clean Energy Consumption"
     relative: false
 editPost:
@@ -22,6 +22,7 @@ editPost:
 
 [Current Version](draft.pdf)
 
+[Online Appendix](appendix.pdf)
 
 [SSRN](https://ssrn.com/abstract=5265415)
 
@@ -29,16 +30,15 @@ editPost:
 
 ### Abstract
 
-We develop a methodology to estimate the aggregate elasticity of substitution between polluting and non-polluting energy. Exploiting variation in US states' energy mixes, we estimate an elasticity of 0.59 --- statistically closer to unity and significantly smaller than prior studies suggest. This implies that subsidies alone may be insufficient to achieve a long-run energy transition. A model linking aggregate and sectoral elasticities implies a technological elasticity of 0.72, with the transportation sector emerging as a key constraint on overall substitutability. We show that increases in clean energy shares do not significantly raise the aggregate elasticity unless sectoral elasticities rise.
-
+I introduce a new empirical strategy to provide the first estimate of the aggregate elasticity of substitution between polluting and non-polluting energy. Exploiting variation in US states’ energy mixes, I estimate an elasticity of 0.50 — much lower than most calibrations assume. Gross complementarity between energy sources complicates the green transition and significantly raises the economic costs of climate change. Despite rapid clean energy adoption, I find no evidence of increasing substitutability over time. A bottom-up model mapping invariant sectoral elasticities to their aggregate counterpart supports this result. These findings underscore the need for policies targeting green energy’s economic suitability.
 ---
 
 ##### Figure 5: Clean Energy Consumption vs Dirty Energy Prices.
 
-![](us_y_ts_relative_energy_use_vs_price_wind.png)
+![](us_y_ts_ma_relative_energy_use_vs_price_wind.png)
 
-Notes: The figure plots two series for the US: the log-difference in average energy prices between pollutant and non-pollutant sources, and the log-difference in energy consumption between clean and dirty energy. Both series are normalized to 100 in 2010 prior to the log transformation. As a proxy for clean energy prices, we use onshore wind LCOE estimates from International Renewable Energy Agency (2024); analogous results using photovoltaic estimates are shown in figure 13. All prices are adjusted for inflation.
 
+Notes: The figure plots the four-year moving average for two US time-series: the log-difference between average polluting and non-polluting energy prices, and the log-difference between total clean and dirty energy consumption. Both series are normalized to 0 in 2004. As a proxy for clean energy prices, I use onshore wind LCOE estimates for new power plants in the US from International Renewable Energy Agency (2024); analogous results using photovoltaic estimates are shown in figure 12 of the supplemental appendix. All prices are adjusted for inflation.
 ---
 
 ### Citation
