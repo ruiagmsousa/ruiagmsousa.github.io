@@ -20,7 +20,7 @@ editPost:
 
 ### MANUSCRIPT 
 
-- [Ungated Version](draft.pdf) ([Online Appendix](appendix.pdf))
+- [Updated Version](draft.pdf) ([Online Appendix](appendix.pdf))
 
 - [SSRN](https://ssrn.com/abstract=5265415)
 
