@@ -20,17 +20,16 @@ editPost:
 
 ### MANUSCRIPT 
 
-[Current Version](draft.pdf)
+- [Ungated Version](draft.pdf) ([Online Appendix](appendix.pdf))
 
-[Online Appendix](appendix.pdf)
-
-[SSRN](https://ssrn.com/abstract=5265415)
+- [SSRN](https://ssrn.com/abstract=5265415)
 
 ---
 
 ### Abstract
 
 I introduce a new empirical strategy to provide the first estimate of the aggregate elasticity of substitution between polluting and non-polluting energy. Exploiting variation in US states’ energy mixes, I estimate an elasticity of 0.50 — much lower than most calibrations assume. Gross complementarity between energy sources complicates the green transition and significantly raises the economic costs of climate change. Despite rapid clean energy adoption, I find no evidence of increasing substitutability over time. A bottom-up model mapping invariant sectoral elasticities to their aggregate counterpart supports this result. These findings underscore the need for policies targeting green energy’s economic suitability.
+
 ---
 
 ##### Figure 5: Clean Energy Consumption vs Dirty Energy Prices.
@@ -39,6 +38,7 @@ I introduce a new empirical strategy to provide the first estimate of the aggreg
 
 
 Notes: The figure plots the four-year moving average for two US time-series: the log-difference between average polluting and non-polluting energy prices, and the log-difference between total clean and dirty energy consumption. Both series are normalized to 0 in 2004. As a proxy for clean energy prices, I use onshore wind LCOE estimates for new power plants in the US from International Renewable Energy Agency (2024); analogous results using photovoltaic estimates are shown in figure 12 of the supplemental appendix. All prices are adjusted for inflation.
+
 ---
 
 ### Citation

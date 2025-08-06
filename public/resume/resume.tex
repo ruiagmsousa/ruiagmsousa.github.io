@@ -1,0 +1,151 @@
+\documentclass{practical-resume}
+%\pagenumbering{arabic} %page numbering
+
+%Custom Variables
+\newcommand*{\name}{Rui Sousa} 
+
+% Footer to Direct Readers to Website Resume.
+\newcommand{\foot}{Last Update: \today}
+
+%fonts
+\setmainfont{TeX Gyre Termes}
+\setsansfont{TeX Gyre Heros}
+
+\usepackage{hyperref}
+\hypersetup{
+    pdftitle={Resume},
+    pdfauthor={Rui Sousa},
+    colorlinks=true,
+    linkcolor=blue,
+    citecolor=magenta,
+    filecolor=magenta,      
+    urlcolor=magenta,
+    pdfpagemode=FullScreen
+}
+
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Header
+% prints your name
+\namehead
+
+% Links
+\begin{address}{
+	Office 3436, Kellogg Global Hub, \\
+	2211 N Campus Dr, Evanston, IL 60208
+}
+{rui.agm.sousa@u.northwestern.edu}
+{https://ruiagmsousa.github.io}
+{\today}
+\end{address}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Education 
+\sectionheading{Education}
+\organization{Northwestern University}{Evanston, IL}{2021-2027 (Expected)} 
+\begin{position}{PhD Student, }{Economics Department}
+	\item Master of Arts, 2022 
+	\item Relevant coursework: Graduate Econometrics, Macro, Micro, Asset Pricing \& Corporate Finance (Kellogg Business School) 
+\end{position} 
+
+\organization{Nova School of Business and Economics}{Lisbon, Portugal}{2016-2019}
+	\begin{position}{MSc Economics, }{GPA $19/20$ (A) - Novo Banco Master's Scholarship}
+		\item Exchange Program at Copenhagen University
+	\end{position}
+
+\organization{University of Porto}{Porto, Portugal}{2013-2016}
+	\begin{position}[noitemize]{BSc Economics, }{GPA: 18/20 (A)}
+	\end{position}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Working Papers
+\sectionheading{Research Activity}
+	
+	\organization{The Aggregate Green Elasticity of Substitution (\href{https://ruiagmsousa.github.io/research/agg-green-elasticity}{Draft})}{}{}
+\begin{itemize}[leftmargin=2.5em, itemsep=-0.25em, topsep=0.5em]\vspace{-0.3em}
+    \item Using a novel semi-structural model, I provide the first quantification of the economy-wide elasticity of substitution between clean and polluting energy sources — a key parameter for analyzing the macro-dynamics of climate change and the green transition
+    \item After deriving a new equilibrium relationship between energy consumption and observable prices, I exploit U.S. states' heterogeneous energy mixes to implement a shift-share instrumental variables strategy, estimating an aggregate elasticity of $0.5$
+    \item I construct an analytical mapping between sectoral elasticities and their aggregate counterpart. Using 2022 data to calibrate the model, I find that energy end-users electrify more easily than the electricity sector shifts to green sources, recovering elasticities of $0.8$ and $0.52$, respectively
+\end{itemize}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Work in Progress
+\organization{Selected Work in Progress}{}{}\vspace{-0.5em}
+	\begin{itemize}
+		\item Climate Change and the Sovereign Debt Overhang\vspace{-0.25em}
+		\begin{itemize}\vspace{-0.5em}
+			\item I document the increased frequency and intensity of extreme climatic events for different carbon pathways, map their impact on GDP, and calibrate a sovereign default model with disasters to study the interlinkage between public debt and climate change in EMEs
+		\vspace{-0.75em}
+		\end{itemize}
+		\item The Distributional Effects of Climate Change\vspace{-0.26em}
+		\begin{itemize}\vspace{-0.5em}	
+			\item I use local projections with high-dimensional fixed effects on a panel of countries to estimate the effect of climate change on the income distribution
+		\end{itemize}
+	\end{itemize}\vspace{-1em}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Work Experience
+\sectionheading{Professional Experience}
+
+	\organization{London School of Economics}{London, United Kingdom}{Sep 2020 - Sep 2021}
+	\begin{position}{Research Assistant, }{Centre For Macroeconomics. Advisors: Profs. Benjamin Moll \& Ricardo Reis}	
+		\item Solved continuous-time heterogeneous agent models numerically using finite-difference methods
+			%survey of professional forecasters, michigan survey of consumers
+			\item Modeled rare inflation events implementing threshold selection algorithms and maximum likelihood estimation
+			%First define threshold for what an extreme-event is
+			%Then fit fat-tailed distributions using either closed-form solutions or MLE
+			\item Analyzed consumer and professional inflation expectations microdata
+	\end{position}
+
+
+	\organization{European Central Bank}{Frankfurt Am Main, Germany}{Jun 2018 - Sep 2021}
+	\begin{position}{Analyst, }{Crisis Management - Quantitative Cluster}
+			\item Contributed to early warning models processing 1M+ daily observations from global media database and implementing natural language processing
+		%google big query
+		%use GDELT full text api to retrieve text that mentioned particular banks/countries 
+		%Global Database of Events, Language and Tone
+		%created sentiment score of sentences using dictionary of pre-selected words
+		%get total article count by theme (banking for example)
+		%frequency count of articles
+			\item Analyzed liquidity provisions during stress events and the impact of banking policy on profitability
+			\item Contributed to the impact assessment of Basel III on MREL requirements
+	\end{position}
+	
+	\begin{position}{Trainee, }{Stress Test Modelling}
+		\item Implemented causal inference methods (regression discontinuity, triple difference-in-differences) on large supervisory banking panel datasets to identify the impact of stress-tests and capital requirements on risk-taking and profitability
+		\item Contributed to credit risk assessment tool using historical loan portfolio data
+	\end{position}
+%\organization{Bank BPI}{Lisbon, Portugal}{Jun 2017 - Aug 2017}
+%	\begin{position}[noitemize]{Intern, }{Private Banking}
+%	\end{position}
+	
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Skills
+\sectionheading{Tools \& Skills}
+\vspace{-0.4em}
+
+\noindent
+\begin{minipage}[t]{0.48\textwidth}
+\begin{itemize}[leftmargin=*, itemsep=0em, topsep=0.3em]
+    \item \textbf{Programming:} R, Python, Matlab
+    \item \textbf{Computing:} SLURM (HPC), Git, \LaTeX
+    \item \textbf{Datasets:} Compustat, CES, PSID, MER, SEDS, SPF, SCE, CMIP6, Census
+    \item \textbf{Languages:} English, Portuguese (fluent); French, Spanish (conversational)
+\end{itemize}
+\end{minipage}%
+\hfill%
+\begin{minipage}[t]{0.48\textwidth}
+\begin{itemize}[leftmargin=0.25em, itemsep=0.25em, topsep=0.3em]
+    \item \textbf{Time-series:} State-space \& non-linear models, time-varying volatility, bayesian inference, forecasting
+    \item \textbf{Microeconometrics:} Shift-share IV, DiD, RDD, statistical learning
+    \item \textbf{Modelling:} Dynare, sequence-space jacobian methods
+\end{itemize}
+\end{minipage}
+
+
+		
+\end{document}
