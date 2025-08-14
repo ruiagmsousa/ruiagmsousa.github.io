@@ -43,7 +43,7 @@ Notes: The figure plots the four-year moving average for two US time-series: the
 
 ### Citation
 
- Sousa, Rui, The Aggregate Green Elasticity of Substitution (May 22, 2025). Available at SSRN: https://ssrn.com/abstract=5265415 
+ Sousa, Rui, The Aggregate Green Elasticity of Substitution (May 23, 2025). Available at SSRN: https://ssrn.com/abstract=5265415
  
 ##### Bibtex:
 ```BibTeX
