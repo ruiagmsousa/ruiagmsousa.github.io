@@ -2,22 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/anthropogenic-emissions/</loc>
+    <lastmod>2026-06-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/research/cleansing-oil/</loc>
+    <lastmod>2026-06-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/energy-transition/</loc>
+    <lastmod>2026-06-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/oil-shocks/</loc>
+    <lastmod>2026-06-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/research/</loc>
+    <lastmod>2026-06-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-06-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-06-07T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/elasticity-of-substitution-estimation/</loc>
     <lastmod>2025-08-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/energy-and-economic-growth/</loc>
-    <lastmod>2025-08-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/energy-transition/</loc>
-    <lastmod>2025-08-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/research/</loc>
-    <lastmod>2025-08-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-08-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-08-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/research/agg-green-elasticity/</loc>

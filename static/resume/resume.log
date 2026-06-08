@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.5.20)  30 JUL 2025 19:02
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.5.20)  29 JAN 2026 16:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -852,7 +852,13 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 53.
 
-Underfull \hbox (badness 2653) in paragraph at lines 144--145
+Underfull \hbox (badness 1189) in paragraph at lines 145--146
+[]\TU/TeXGyreTermes(0)/b/n/10 Time-series: \TU/TeXGyreTermes(0)/m/n/10 State-sp
+ace & nonlinear models, time-varying
+ []
+
+
+Underfull \hbox (badness 2653) in paragraph at lines 146--147
 []\TU/TeXGyreTermes(0)/b/n/10 Microeconometrics: \TU/TeXGyreTermes(0)/m/n/10 Sh
 ift-share IV, DiD, RDD, statistical
  []
@@ -900,12 +906,12 @@ cp;mapping=tex-text;"
 
 ]
 Package pageslts Info: enddocument/afterlastpage (AED): pageslts setting LastPa
-ge on input line 151.
+ge on input line 153.
 \c@pagesLTS.arabic.1.local.count=\count345
 Package pageslts Info: enddocument/afterlastpage (AED): pageslts setting VeryLa
-stPage on input line 151.
+stPage on input line 153.
 Package pageslts Info: enddocument/afterlastpage (AED): pageslts setting LastPa
-ges on input line 151.
+ges on input line 153.
 
 
 Package pageslts Info: Total number of pages is odd.
@@ -925,6 +931,6 @@ Here is how much of TeX's memory you used:
  45723 multiletter control sequences out of 15000+600000
  627497 words of font info for 80 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 103i,11n,111p,350b,582s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 103i,11n,111p,346b,582s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on resume.pdf (1 page).
