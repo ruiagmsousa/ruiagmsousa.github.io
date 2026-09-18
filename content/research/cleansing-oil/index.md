@@ -5,7 +5,8 @@ lastmod: 2026-06-13
 tags: ["Energy Transition","Oil Shocks","Anthropogenic Emissions"]
 author: ["Rui Sousa"]
 description: "Working Paper" 
-summary: "I study the dynamics of greenhouse gas emissions following unexpected increases in oil prices from supply disruptions. I find that $CO_2$-equivalent atmospheric concentrations decrease driven by a decline in oil and gas consumption. Solar energy does not take-up contrarily to common expectations." 
+summary: "I study the dynamics of greenhouse gas emissions following disruptions in crude oil markets. 
+Following a 10% unexpected increase in crude oil prices, CO_2-equivalent atmospheric concentration declines by 3.24% relative to trend after two years. Solar energy does not take-up contrarily to common expectations." 
 cover:
     image: "lps_ts_noaa_co2eq_2002_oil_news_shock.png"
     alt: "$CO_2$ Equivalent Concentration"
@@ -28,24 +29,25 @@ editPost:
 
 ### Abstract
 
-I study the dynamics of greenhouse gas emissions following unexpected increases in oil prices from supply disruptions. 
-I find that CO2-equivalent atmospheric concentrations decrease by 0.10 ppm relative to trend following a 10% increase in crude oil prices. 
-This effect is heterogeneous across gases, reflecting a reshuffling of fossil fuel usage. 
-Natural gas and petroleum products fall sharply across the board, while low-quality coal and bioenergy generation rise. 
-Driven by tighter financial conditions and elevated uncertainty, solar capacity contracts. 
-Hybrid and EV adoption increase markedly, partially substituting for conventional internal combustion engine vehicles.
+I study the dynamics of greenhouse gas emissions following disruptions in crude oil markets. 
+Following a 10% unexpected increase in crude oil prices, CO_2-equivalent atmospheric concentration declines by 3.24% relative to trend after two years. 
+The decline is heterogeneous across greenhouse gases and reflects a reshuffling of fossil fuel use rather than a transition toward cleaner energy. 
+Natural gas and petroleum products decline substantially, while lignite and bioenergy generation increase. 
+Consistent with tighter financial conditions and elevated uncertainty, solar capacity also contracts following the shock. 
+I find no evidence of accelerated adoption of alternative-fuel vehicles. 
+Overall, the results show that an oil shock provides some of the incentives for decarbonization associated with a carbon tax, but also generates distortions that a carbon tax does not.
 
 ---
 
 ##### Figure 3, Panel (a): $CO_2$ Equivalent Concentration.
 
-![](lps_ts_noaa_co2eq_2002_oil_news_shock.png)
+![](lps_ts_noaa_co2eq_2001_oil_news_shock.png)
 
 
-Notes: Impulse responses to the oil supply news shock of Känzig (2021), normalised to a 10% increase in oil prices
-on impact. Panel (a): h + 1 change in atmospheric CO2e concentration (ppm). 
-Shaded bands correspond to 90% and 95% confidence intervals based on HAC standard errors. COVID-19 (2020) is
-excluded from the sample. Shocks: January 2002 – December 2024; outcome data extends to December 2025.
+Notes: Impulse response to the oil supply news shock of Känzig (2021), normalised to a 10% increase in oil prices on impact.
+h + 1 long-difference in atmospheric CO2e concentration (ppm). 
+Shaded bands correspond to 90% and 95% confidence intervals based on heteroskedasticity-robust bootstrapped standard errors. 
+COVID-19 (2020) is excluded from the sample. Shocks: January 2002 – December 2024; outcome data extends to December 2025.
 
 ---
 
