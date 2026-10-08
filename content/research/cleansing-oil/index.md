@@ -29,17 +29,8 @@ editPost:
 
 ### Abstract
 
-I study the dynamics of greenhouse gas emissions following disruptions in crude oil markets. 
-Following a 10% unexpected increase in crude oil prices, CO2-equivalent atmospheric concentration declines by 0.10 ppm, 
-equivalent to 3.24% of its average yearly increase for the 21st century. 
-The decline is heterogeneous across greenhouse gases and reflects a reshuffling of fossil 
-fuel use rather than a transition toward cleaner energy. 
-Natural gas and petroleum products decline substantially, while lignite production increases 
-temporarily and bioenergy generation rises. Consistent with tighter financial conditions and elevated uncertainty, 
-solar generation also contracts following the shock. 
-I find no evidence of accelerated adoption of alternative-fuel vehicles. 
-Overall, the results show that an oil shock provides some of the incentives for 
-decarbonization associated with a carbon tax, but also generates distortions that a carbon tax does not.
+I study the dynamics of greenhouse gas emissions following disruptions in crude oil markets. Following a 10% unexpected increase in crude oil prices, CO2-equivalent atmospheric concentration declines by 0.10 ppm, equivalent to 3.24% of its average yearly increase for the 21st century. The decline is heterogeneous across greenhouse gases and reflects a reshuffling of fossil fuel use rather than a transition toward cleaner energy. Natural gas and petroleum products decline substantially, while lignite production increases temporarily and bioenergy generation rises. Consistent with tighter financial conditions and elevated uncertainty, solar generation also contracts following the shock. I find no evidence of accelerated adoption of alternative-fuel vehicles.Overall, the results show that an oil shock provides some of the incentives for decarbonization associated with a carbon tax, but also generates distortions that a carbon tax does not.
+
 ---
 
 ##### Figure 3, Panel (a): $CO_2$ Equivalent Concentration.
