@@ -8,7 +8,7 @@ description: "Working Paper"
 summary: "I study the dynamics of greenhouse gas emissions following disruptions in crude oil markets. 
 Following a 10% unexpected increase in crude oil prices, CO_2-equivalent atmospheric concentration declines by 3.24% relative to trend after two years. Solar energy does not take-up contrarily to common expectations." 
 cover:
-    image: "lps_ts_noaa_co2eq_2002_oil_news_shock.png"
+    image: "lps_ts_noaa_co2eq_2001_oil_news_shock.png"
     alt: "$CO_2$ Equivalent Concentration"
     relative: false
 editPost:
